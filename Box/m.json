@@ -2,7 +2,7 @@
     "wallpaper": "http://192.168.150.184/pics",
     "dr_count": 119,
     "mode": 1,
-    "spider": "http://192.168.150.184/custom_spider.jar",
+    "spider": "http://192.168.150.184/Jar/custom_spider.jar",
     "drives": [
         {
             "name": "小雅的Alist",
