@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/drpy/js/drpy.js"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/drpy/js/drpy.js"
     },
     {
       "key": "csp_Nmys",
@@ -17,8 +17,8 @@
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/nmys.json"
+      "filterable": 1,    https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/nmys.json"
     },
     {
       "key": "csp_YQKAPP",
@@ -370,7 +370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     },
     {
       "key": "csp_Alist1",
@@ -380,7 +380,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/alist.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/alist.json"
     },
     {
       "key": "csp_Alist2",
@@ -390,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/xiaoya.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/xiaoya.json"
     },
     {
       "key": "csp_Biliych",
@@ -400,7 +400,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/Biliych.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/Biliych.json"
     },
     {
       "key": "csp_Bili",
@@ -410,7 +410,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/bilibili.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/bilibili.json"
     },
     {
       "key": "drpy_js_兔小贝",
@@ -420,7 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/drpy/js/兔小贝.js"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/drpy/js/兔小贝.js"
     },
     {
       "key": "幼儿乐园",
@@ -430,7 +430,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/幼儿乐园.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/幼儿乐园.json"
     },
     {
       "key": "少儿教育",
@@ -440,7 +440,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/少儿教育.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -450,7 +450,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/小学课堂.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -460,7 +460,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/初中课堂.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -470,7 +470,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/高中课堂.json"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/高中课堂.json"
     },
     {
       "key": "AliPS",
@@ -480,7 +480,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     },
     {
       "key": "FindZY",
@@ -490,7 +490,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     },
     {
       "key": "csp_Yiso",
@@ -500,7 +500,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -510,7 +510,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     },
     {
       "key": "push_agent",
@@ -520,7 +520,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/MXSen-Com/Tv-Src/main/2H/json/token.txt"
+      "ext": "https://jsd.cdn.zzko.cn/gh/MXSen-Com/Tv-Src@main/2H/json/token.txt"
     }
   ],
   "lives": [
@@ -560,7 +560,7 @@
     {
       "name": "解析A",
       "type": 1,
-      "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
+      "url": "http://www.pangujiexi.cc/jiexi.php?url="
     },
     {
       "name": "解析B",
@@ -569,88 +569,68 @@
     },
     {
       "name": "解析C",
-      "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
-    },
-    {
-      "name": "解析D",
       "type": 0,
       "url": "https://jx.bozrc.com/player/?url="
     },
     {
-      "name": "解析E",
+      "name": "解析D",
       "type": 0,
       "url": "https://jx.4kdv.com/?url="
     },
     {
-      "name": "解析F",
+      "name": "解析E",
       "type": 0,
       "url": "https://www.ckmov.com/?url="
     },
     {
-      "name": "解析G",
+      "name": "解析F",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url="
     },
     {
-      "name": "解析H",
+      "name": "解析G",
       "type": 0,
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "解析I",
+      "name": "解析H",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "解析J",
+      "name": "解析I",
       "type": 1,
       "url": "https://jx.aidouer.net/?url="
     },
     {
-      "name": "解析K",
+      "name": "解析J",
       "type": 1,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "解析L",
+      "name": "解析K",
       "type": 1,
       "url": "https://www.yemu.xyz/?url="
     },
     {
-      "name": "解析M",
+      "name": "解析L",
       "type": 1,
       "url": "https://jx.blbo.cc/?url="
     },
     {
-      "name": "解析N",
+      "name": "解析M",
       "type": 1,
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
-      "name": "解析O",
+      "name": "解析N",
       "type": 1,
       "url": "https://vip.bljiex.com/?v="
     },
     {
-      "name": "解析P",
+      "name": "解析O",
       "type": 1,
       "url": "https://api.jiexi.la/?url="
-    },
-    {
-      "name": "解析Q",
-      "type": 1,
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "解析R",
-      "type": 1,
-      "url": "http://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "解析S",
-      "type": 1,
-      "url": "https://www.gai4.com/?url="
     }
   ],
   "flags": [
