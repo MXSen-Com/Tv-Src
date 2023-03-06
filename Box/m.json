@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "douban",
-      "name": "🔍豆瓣榜单1〔不要勾选〕",
+      "name": "🔍豆瓣榜单A",
       "type": 4,
       "api": "https://t4.xn--sss604efuw.ml/vod",
       "searchable": 0,
@@ -11,7 +11,7 @@
     },
     {
       "key": "t4public",
-      "name": "🔍豆瓣榜单2〔不要勾选〕",
+      "name": "🔍豆瓣榜单B",
       "type": 4,
       "api": "http://drpy.ganggang.live:5705/vod?rule=drpy",
       "searchable": 1,
@@ -28,25 +28,6 @@
       "filterable": 1
     },
     {
-      "key": "厂长影视",
-      "name": "️🕵厂长换播放器〔SP〕",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "8ee655f702d0d21f3643504783babbc3"
-    },
-    {
-      "key": "csp_Xinsj",
-      "name": "🐼新视觉〔SP〕",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_xBPQ_爱看影视",
       "name": "💖爱看影视〔SP〕",
       "type": 3,
@@ -57,16 +38,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
     },
     {
-      "key": "Lgyy",
-      "name": " 📽 蓝光〔SP〕",
-      "type": 0,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "b2e573ff040fcd54b50475660ee1a7d1"
-    },
-    {
       "key": "csp_Bttoo",
       "name": "✌两个BT〔SP〕",
       "type": 3,
@@ -74,26 +45,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "mtv_pc_追剧达人",
-      "name": "🌲图图影视〔SP〕",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "110c922de7d69804467fb83d3bb664b5"
-    },
-    {
-      "key": "drpy_js_348电影",
-      "name": "📹348电影〔SP〕",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/js依赖/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/推荐包jar/348电影网.js"
     },
     {
       "key": "csp_77",
@@ -114,26 +65,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_555",
-      "name": "5️⃣555影视〔SP〕",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json"
-    },
-    {
-      "key": "XBPQ_fant",
-      "name": "🍙饭团〔SP〕",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/饭团.json"
-    },
-    {
       "key": "csp_Cokemv",
       "name": "🐼cokemv影视〔SP〕",
       "type": 3,
@@ -141,26 +72,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Yyy",
-      "name": "🦁在线直播〔SP〕",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
-    },
-    {
-      "key": "Ddys",
-      "name": "💢低端〔XB〕",
-      "type": 0,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
       "key": "csp_xp_yinfans",
@@ -193,16 +104,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/奇优.json"
     },
     {
-      "key": "csp_biubiu_voflix",
-      "name": "💢vo fl ix〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
-    },
-    {
       "key": "csp_xbb_达达龟",
       "name": "💢达达龟(XB)",
       "type": 3,
@@ -213,45 +114,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/达达龟.json"
     },
     {
-      "key": "csp_XBPQ_真不卡",
-      "name": "️💢真不卡(XB)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json"
-    },
-    {
-      "key": "csp_XBiu口袋影院",
-      "name": "💢口袋影视(XB)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "csp_Lib",
-      "name": "💢LIBVIO(XB)",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_xBPQ_诺讯影视",
-      "name": "️💢诺讯(XB)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/诺讯影视.json"
-    },
-    {
       "key": "NoSearch_Bdys_spider",
       "name": "️💢哔滴影视(XB）",
       "type": 3,
@@ -259,16 +121,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "drpy_js_独播库",
-      "name": "️💢独播库(XB）",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
     },
     {
       "key": "csp_Anime1",
@@ -309,16 +161,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/去看动漫.json"
     },
     {
-      "key": "drpy_js_AGE动漫",
-      "name": "🐸AGE动漫",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/动漫包jar/age动漫.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/AGE动漫 (1).js"
-    },
-    {
       "key": "csp_biubiu_风车动漫",
       "name": "🍭风车动漫",
       "type": 3,
@@ -327,23 +169,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/动漫包/风车动漫.json"
-    },
-    {
-      "key": "csp_Ying",
-      "name": "🌼樱花动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "5454",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_XPath_鹅直播",
