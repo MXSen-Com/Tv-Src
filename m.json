@@ -1,17 +1,31 @@
-{ "urls": [{ "url": "clan://饭太硬.top/tv", "name": "饭太硬" },
+{ "urls": [
 
-{ "url": "clan://xhww.fun:63/小米/DEMO.json", "name": "小米" },
+{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
-{ "url": "clan://肥猫.love", "name": "肥猫" },
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 
-{ "url": "clan://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
+{ "url": "http://肥猫.love", "name": "肥猫" },
 
-{ "url": "clan://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
+{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
 
-{ "url": "clan://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
+{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
 
-{ "url": "clan://yydsys.top/duo", "name": "多多" },
+{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
 
-{ "url": "clan://download.kstore.space/download/3313/mao/ymxx", "name": "夜猫子" },
+{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
 
-{ "url": "clan://gh.t4tv.hz.cz/newtang.bmp", "name": "唐三" }]}
+{ "url": "https://yydsys.top/duo", "name": "多多" },
+
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
+
+{ "url": "https://download.kstore.space/download/3313/mao/ymxx", "name": "夜猫子" },
+
+{ "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "少儿频道" },
+
+{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
+
+{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
+
+{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟微信公众号" },
+
+{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟奇奇乐分享" }]}
