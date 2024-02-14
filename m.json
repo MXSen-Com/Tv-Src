@@ -1,17 +1,20 @@
-{ "urls": [
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
-{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
-{ "url": "http://肥猫.love", "name": "肥猫" },
-{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
-{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
-{ "url": "https://yydsys.top/duo", "name": "多多" },
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
-{ "url": "https://download.kstore.space/download/3313/mao/ymxx", "name": "夜猫子" },
-{ "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "少儿频道" },
-{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟微信公众号" },
-{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟奇奇乐分享" }
-]}
+{"urls": 
+ [
+  {"url": "http://meowtv.cn/tv","name": "🌟喵影视🌟"}, 
+  {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "🌟南风🌟"}, 
+  {"url": "https://pastebin.com/raw/5NHaxyGR","name": "🌟道长🌟"},
+  {"url": "http://饭太硬.top/tv","name": "🌟饭太硬🌟"}, 
+  {"url": "http://svip.weixine.net:88/uploads/itvbox/svip.json","name": "🌟运输车🌟"}, 
+  {"url": "http://xn--yety82d.love/","name": "🌟肥猫🌟"},
+  {"url": "http://rihou.vip:55/天天开心","name": "🌟天天开心🌟"}, 
+  {"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "🌟云星日记🌟"}, 
+  {"url": "http://home.jundie.top:81/top98.json","name": "🌟俊佬🌟"}, 
+  {"url": "http://rihou.cc:88/荷城茶秀","name": "🌟荷城茶秀🌟"}, 
+  {"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "🌟香雅情本地🌟"}, 
+  {"url": "https://cn.kstore.space/download/2863/01.txt","name": "🌟潇洒🌟"}, 
+  {"url": "http://xiaohu.xzam.cn/xiaohu","name": "🌟小胡🌟"}, 
+  {"url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "🌟高天流云🌟"}, 
+  {"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name": "🌟abc🌟"}, 
+  {"url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name": "🌟吾爱🌟"}
+ ]
+}
